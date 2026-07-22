@@ -1,5 +1,5 @@
-# Inpaiting-testes
-Repositório de aprendizado sobre inpaiting com python para a matéria de computação gráfica na faculdade.
+# Inpainting-testes
+Repositório de aprendizado sobre inpainting com python para a matéria de computação gráfica na faculdade.
 
 Este projeto usa OpenCV para fazer inpainting em uma imagem com base em uma máscara.
 
